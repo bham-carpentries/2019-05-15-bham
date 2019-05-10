@@ -521,16 +521,6 @@ please preview your site before committing, and make sure to run
     (e.g., 3.6 is fine).
   </p>
 
-  <p>
-    We will teach Python using the <a href="https://jupyter.org/">Jupyter notebook</a>,
-    a programming environment that runs in a web browser. For this to work you will need a reasonably
-    up-to-date browser. The current versions of the Chrome, Safari and
-    Firefox browsers are all
-    <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
-    (some older browsers, including Internet Explorer version 9
-    and below, are not).
-  </p>
-
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
       <li role="presentation" class="active"><a data-os="windows" href="#python-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
@@ -597,5 +587,3 @@ please preview your site before committing, and make sure to run
   </p>
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-
-{% endcomment %}
