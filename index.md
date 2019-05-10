@@ -18,7 +18,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-<h3 align=“center”><strong>This workshop is full. Only those with a confirmed place may attend.</strong></h3>
+<h3 align="center"><strong>This workshop is full. Only those with a confirmed place may attend.</strong></h3>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
